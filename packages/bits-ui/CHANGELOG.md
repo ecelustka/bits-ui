@@ -1,5 +1,11 @@
 # bits-ui
 
+## 2.18.2
+
+### Patch Changes
+
+- fix(AlertDialog): pass `disabled` through to button in `AlertDialog.Cancel` ([#2068](https://github.com/huntabyte/bits-ui/pull/2068))
+
 ## 2.18.1
 
 ### Patch Changes
